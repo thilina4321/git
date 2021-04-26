@@ -1,13 +1,7 @@
 this is the next
-<<<<<<< HEAD
 hello world
 mchan
 kolla
 kolla 2
 
 master one
-=======
-kolla
-kolla 2
-kolla 3
->>>>>>> next
