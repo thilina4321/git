@@ -3,5 +3,10 @@ hello world
 mchan
 kolla
 kolla 2
+<<<<<<< HEAD
 
 master one
+=======
+kolla 3
+kolla 4
+>>>>>>> next
