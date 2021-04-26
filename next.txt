@@ -1,8 +1,5 @@
 this is the next
-<<<<<<< HEAD
 hello world
 mchan
-=======
 kolla
 kolla 2
->>>>>>> next
