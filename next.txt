@@ -9,4 +9,8 @@ master one
 =======
 kolla 3
 kolla 4
+<<<<<<< HEAD
+>>>>>>> next
+=======
+kolla 5
 >>>>>>> next
